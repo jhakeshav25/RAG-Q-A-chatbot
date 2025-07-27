@@ -96,9 +96,9 @@ This project was developed as **Assignment 8** during the **Data Science Interns
 
 | Platform       | Link                                                                 |
 |----------------|----------------------------------------------------------------------|
-| 💼 LinkedIn     | [linkedin.com/in/keshav-kumar-jha-aa560022a](https://linkedin.com/in/keshav-kumar-jha-aa560022a) |
-| 💻 GitHub       | [github.com/jhakeshav25](https://github.com/jhakeshav25)            |
-| 📚 GeeksforGeeks| [geeksforgeeks.org/user/jhakeshav25](https://www.geeksforgeeks.org/user/jhakeshav25) |
+| 💼 LinkedIn     |(https://linkedin.com/in/keshav-kumar-jha-aa560022a) |
+| 💻 GitHub       | (https://github.com/jhakeshav25)            |
+| 📚 GeeksforGeeks| (https://www.geeksforgeeks.org/user/jhakeshav25) |
 
 ---
 
@@ -114,9 +114,9 @@ This project was developed as **Assignment 8** during the **Data Science Interns
 ## 🙋‍♂️ Author
 
 **Keshav Kumar Jha**  
-📧 Email: [keshavkumarjha528@gmail.com](mailto:keshavkumarjha528@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/keshav-kumar-jha-aa560022a](https://linkedin.com/in/keshav-kumar-jha-aa560022a)  
-💻 GitHub: [github.com/jhakeshav25](https://github.com/jhakeshav25)  
+📧 Email:(mailto:keshavkumarjha528@gmail.com)  
+🔗 LinkedIn:(https://linkedin.com/in/keshav-kumar-jha-aa560022a)  
+💻 GitHub:(https://github.com/jhakeshav25)  
 
 ---
 
