@@ -1,0 +1,11 @@
+streamlit
+sentence-transformers
+faiss-cpu
+transformers
+langchain
+langchain-community
+torch
+numpy
+huggingface-hub
+accelerate
+pandas
