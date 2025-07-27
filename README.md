@@ -90,15 +90,6 @@ This project was developed as **Assignment 8** during the **Data Science Interns
 
 > 💼 A perfect blend of NLP, vector search, data science, and real-time chat applications.
 
----
-
-## 🔗 Connect with Me
-
-| Platform       | Link                                                                 |
-|----------------|----------------------------------------------------------------------|
-| 💼 LinkedIn     |(https://linkedin.com/in/keshav-kumar-jha-aa560022a) |
-| 💻 GitHub       | (https://github.com/jhakeshav25)            |
-| 📚 GeeksforGeeks| (https://www.geeksforgeeks.org/user/jhakeshav25) |
 
 ---
 
@@ -111,12 +102,12 @@ This project was developed as **Assignment 8** during the **Data Science Interns
 
 ---
 
-## 🙋‍♂️ Author
+## 👨‍💻 Author
 
 **Keshav Kumar Jha**  
-📧 Email:(mailto:keshavkumarjha528@gmail.com)  
-🔗 LinkedIn:(https://linkedin.com/in/keshav-kumar-jha-aa560022a)  
-💻 GitHub:(https://github.com/jhakeshav25)  
+📧 [keshavkumarjha528@gmail.com](mailto:keshavkumarjha528@gmail.com)  
+📍 Greater Noida, India  
+🔗 [GitHub](https://github.com/jhakeshav25) • [LinkedIn](https://linkedin.com/in/keshav-kumar-jha-aa560022a/) • [LeetCode](https://leetcode.com/u/jhakeshav25/) • [GFG](https://www.geeksforgeeks.org/user/jhakeshav25/)
 
 ---
 
